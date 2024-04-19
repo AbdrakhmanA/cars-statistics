@@ -61,6 +61,7 @@ for i, j in res.items():
     print(f'Марка: {i}, Количество авто: {j["count"]}, Средняя стоимость: {j["mean_price"]}, '
           f'Год самого старого авто: {j["old_year"]}, Год самого нового авто: {j["new_year"]}, '
           f'Преобладающий тип топлива: {j["moda_fuel"]}')
+    print()
 
 with open('res_statistics.json', 'w') as file: 
     json.dump(res, file, indent=4)
