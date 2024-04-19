@@ -1,0 +1,23 @@
+{
+    "Ford": {
+        "count": 55,
+        "mean_price": 506399.9,
+        "old_year": 2005,
+        "new_year": 2019,
+        "moda_fuel": "Diesel"
+    },
+    "BMW": {
+        "count": 18,
+        "mean_price": 4027777.8,
+        "old_year": 2010,
+        "new_year": 2019,
+        "moda_fuel": "Diesel"
+    },
+    "Volkswagen": {
+        "count": 27,
+        "mean_price": 569963.0,
+        "old_year": 2010,
+        "new_year": 2019,
+        "moda_fuel": "Diesel"
+    }
+}
