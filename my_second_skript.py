@@ -1,4 +1,3 @@
-from json.encoder import JSONEncoder
 import json
 
 pict = """
